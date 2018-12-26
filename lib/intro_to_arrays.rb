@@ -1,7 +1,7 @@
 
 def instantiate_new_array
   new = []
-  puts new.inspect
+  puts new
 end
 
 def array_with_two_elements
